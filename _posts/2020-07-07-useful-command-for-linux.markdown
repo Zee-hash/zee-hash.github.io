@@ -1,17 +1,45 @@
 ---
 layout: post
-title:  "useful linux command"
+title:  "Useful linux command"
 date:   2020-07-07 16:56:00 +0800
 categories: linux
 author:  Zee-hash
 tags:  ["manual", "linux"]
 ---
 
-##  whatis
+## whatis
 > display one-line manual page descriptions.  
 
 ex:
-````
+```
 $ whatis rm
 rm (1)               - remove files or directories
+```  
+## which  
+> locate a command  
+
+ex:
+```
+$ which python
+/home/zee-hash/anaconda3/bin/python
+```
+
+## echo  
+> display a line of text  
+
+ex:
+```
+$ echo $SHELL
+/bin/bash
+
+$ echo "$SHELL"
+/bin/bash
+
+// 原样输出
+$ echo '$SHELL'
+$SHELL
+
+// 执行``中的命令
+$ echo `whatis echo`
+echo (1) - display a line of text
 ```
