@@ -11,7 +11,7 @@ tags:  ["ubuntu-mac", "linux"]
 ## Tweaks  
 ### Appearance  
 |ITEM|CONTENT|  
-|---|---|
+|---|---|  
 |Applications|MacOS-Dark-5.2-dark|  
 |Icons|La-capitaine-icon-theme-0.6.1|  
 |Shell|MacOS-Dark-5.2-dark|  
@@ -36,7 +36,7 @@ Plank
 |Position|Bottom|  
 |Alignment|Center0|  
 |Icon Alignment|Center|  
-|Icon Size|50|
+|Icon Size|50|  
 |Icon Zoom|On140|
 ### Behaviour  
 Hide Dock `ON`  
@@ -44,3 +44,4 @@ Show Uppinned `ON`
 Lock Icons `ON`
 
 ## Final Result  
+![效果图](~/assets/post_images/20200708desktop.png)
