@@ -54,11 +54,18 @@ echo (1) - display a line of text
 ex:
 ```bash
 # 新建
-$screen -S name
+$ screen -S name
 # 查看所有
-$screen -ls
+$ screen -ls
 # 临时退出
 Ctrl + A + D
-# 恢复
-$screen -r
+# 恢复，仅有一个时可省略name
+$ screen -r name
+
+$ screen -ls
+There is a screen on:
+	3830.bomb	(07/06/2020 11:19:37 AM)	(Detached)
+1 Socket in /run/screen/S-root.
+
+$ screen -r 3830/bomb
 ```
