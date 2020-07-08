@@ -10,38 +10,32 @@ tags:  ["ubuntu-mac", "linux"]
 
 ## Tweaks  
 ### Appearance  
-|ITEM|CONTENT|  
-|---|---|  
-|Applications|MacOS-Dark-5.2-dark|  
-|Icons|La-capitaine-icon-theme-0.6.1|  
-|Shell|MacOS-Dark-5.2-dark|  
++ Applications `MacOS-Dark-5.2-dark`  
++ Icons `La-capitaine-icon-theme-0.6.1`  
++ Shell `MacOS-Dark-5.2-dark`  
 
 ### Extensions  
-|Extensions|  
-|---|  
-|Autohide battery|  
-|Netspeed|  
-|Topicons plus|  
-|User themes|  
-|System-monitor|  
++ Autohide battery  
++ Netspeed  
++ Topicons plus  
++ User themes  
++ System-monitor  
 
 ### Startup Applications  
-Plank  
++ Plank  
 
 ## Plank  
 ### Apperance  
-|ITEM|CONTENT|  
-|---|---|  
-|Theme|mcOS_Catalina Night|  
-|Position|Bottom|  
-|Alignment|Center0|  
-|Icon Alignment|Center|  
-|Icon Size|50|  
-|Icon Zoom|On140|
++ Theme `mcOS_Catalina Night`  
++ Position `Bottom`  
++ Alignment `Center` `0`  
++ Icon `Alignment` `Center`  
++ Icon `Size` `50`  
++ Icon `Zoom` `ON` `140`
 ### Behaviour  
-Hide Dock `ON`  
-Show Uppinned `ON`  
-Lock Icons `ON`
++ Hide `Dock` `ON`  
++ Show `Uppinned` `ON`  
++ Lock `Icons` `ON`
 
 ## Final Result  
-![效果图](~/assets/post_images/20200708desktop.png)
+![效果图](../assets/images/post_images/20200708desktop.png)
