@@ -33,9 +33,9 @@ tags:  ["ubuntu-mac", "linux"]
 + Icon Size `50`  
 + Icon Zoom `ON` `140`
 ### Behaviour  
-+ Hide `Dock` `ON`  
-+ Show `Uppinned` `ON`  
-+ Lock `Icons` `ON`
++ Hide Dock `ON`  
++ Show Uppinned `ON`  
++ Lock Icons `ON`
 
 ## Final Result  
 ![效果图](/assets/images/post_images/20200708desktop.png)
