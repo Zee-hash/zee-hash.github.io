@@ -29,9 +29,9 @@ tags:  ["ubuntu-mac", "linux"]
 + Theme `mcOS_Catalina Night`  
 + Position `Bottom`  
 + Alignment `Center` `0`  
-+ Icon `Alignment` `Center`  
-+ Icon `Size` `50`  
-+ Icon `Zoom` `ON` `140`
++ Icon Alignment `Center`  
++ Icon Size `50`  
++ Icon Zoom `ON` `140`
 ### Behaviour  
 + Hide `Dock` `ON`  
 + Show `Uppinned` `ON`  
