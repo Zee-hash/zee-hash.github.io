@@ -38,4 +38,4 @@ tags:  ["ubuntu-mac", "linux"]
 + Lock `Icons` `ON`
 
 ## Final Result  
-![效果图](../assets/images/post_images/20200708desktop.png)
+![效果图](/assets/images/post_images/20200708desktop.png)
