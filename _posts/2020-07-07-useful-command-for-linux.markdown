@@ -6,7 +6,7 @@ categories: linux
 author:  Zee-hash
 tags:  ["manual", "linux"]
 ---
-## 快速定位  
+## INDEX  
 [whatis](#whatis)  
 [which](#which)  
 [echo](#echo)  
