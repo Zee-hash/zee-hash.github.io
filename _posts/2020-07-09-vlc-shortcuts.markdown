@@ -16,7 +16,7 @@ here are some docs about this issue.
 
 | Key | Effect |  
 | :---: | :---: |  
-| `F` | `F`ullscreen |  
+| `F` | Fullscreen |  
 |`Esc` | Exit fullscreen mode |  
 | `[/]` | Decrease/ increase playback by 0.1x |  
 | `Space` | Play/Pause |  
