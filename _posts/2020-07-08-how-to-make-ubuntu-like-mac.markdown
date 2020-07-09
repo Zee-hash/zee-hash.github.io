@@ -10,9 +10,12 @@ tags:  ["ubuntu-mac", "linux"]
 
 ## Tweaks  
 ### Appearance  
-+ Applications `MacOS-Dark-5.2-dark`  
-+ Icons `La-capitaine-icon-theme-0.6.1`  
-+ Shell `MacOS-Dark-5.2-dark`  
+
+| Item | Setting |  
+| :---: | :---: |  
+| Applications | `MacOS-Dark-5.2-dark` |  
+| Icons | `La-capitaine-icon-theme-0.6.1` |  
+| Shell | `MacOS-Dark-5.2-dark` |  
 
 ### Extensions  
 + Autohide battery  
@@ -26,16 +29,23 @@ tags:  ["ubuntu-mac", "linux"]
 
 ## Plank  
 ### Apperance  
-+ Theme `mcOS_Catalina Night`  
-+ Position `Bottom`  
-+ Alignment `Center` `0`  
-+ Icon Alignment `Center`  
-+ Icon Size `50`  
-+ Icon Zoom `ON` `140`
+
+| Item | Setting |  
+| :---: | :---: |  
+|Theme | `mcOS_Catalina Night` |  
+| Position | `Bottom` |  
+| Alignment | `Center` `0` |  
+| Icon Alignment | `Center` |  
+| Icon Size | `50` |  
+| Icon Zoom | `ON` `140` |  
+
 ### Behaviour  
-+ Hide Dock `ON`  
-+ Show Uppinned `ON`  
-+ Lock Icons `ON`
+
+| Item | Setting |  
+| :---: | :---: |  
+| Hide Dock | `ON` |  
+| Show Uppinned | `ON` |  
+| Lock Icons | `ON` |
 
 ## Final Result  
 ![效果图](/assets/images/post_images/20200708desktop.png)
