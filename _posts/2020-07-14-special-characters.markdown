@@ -15,7 +15,7 @@ The reason I need this is because some symbols I have seen but I do not know the
 Skills:  
 + `Super(win)` + `A` to show all applications.  
 + Input the keyword.  
-+ `Enter` for copy the character you find.  
++ `Enter` to copy the character you find.  
 
 ![Search Result](/assets/images/post_images/20200714search-results.png)
 
