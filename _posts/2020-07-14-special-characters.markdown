@@ -9,7 +9,7 @@ tags:  ["Characters", "linux"]
 
 > I need some characters when I edit the document.  
 
-In fact, recently I always use the "Characters" that comes with the gonme desktop environment, but sometimes I can’t find the required character for a long time. So I record some character key words that took me a long time to find The name.  
+In fact, recently I always use the "Characters" that comes with the gnome desktop environment, but sometimes I can’t find the required character for a long time. So I record some character key words that took me a long time to find The name.  
 The reason I need this is because some symbols I have seen but I do not know their correct names.
 
 Skills:  
