@@ -27,10 +27,14 @@ Skills:
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
 |𝛂|𝛃|𝛄|𝛅|𝛆|𝛇|𝛈|𝛉|𝛊|𝛋|  
 
-|Lamda|Mu|Nu|Xi|Omicon|Pi|Rho|Final Sigma|Sigma|Tau|  
+|Lamda|Mu|Nu|Xi|Omicron|Pi|Rho|Final Sigma|Sigma|Tau|  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
-|𝜆|𝜇|𝜈|𝜉|𝜊|𝜋|𝜌|𝜍|𝜎|𝜏|  
+|𝛌|𝛍|𝛎|𝛏|𝛐|𝛑|𝛒|𝛓|𝛔|𝛕|  
 
-|Upsilon|Phi|Chi|Psi|Omega|partial Differential|Epsilon Symbol|Theta Symbol|Kappa Symbol|Phi Symbol|Rho Symbol|Pi Symbol|  
+|Upsilon|Phi|Chi|Psi|Omega|partial Differential|  
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
+|𝛖|𝛗|𝛘|𝛙|𝛚|𝛛|  
+
+|Epsilon Symbol|Theta Symbol|Kappa Symbol|Phi Symbol|Rho Symbol|Pi Symbol|  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
-|𝜐|𝜑|𝜒|𝜓|𝜔|𝜕|𝜖|𝜗|𝜘|𝜙|𝜚|  
+|𝛜|𝛝|𝛞|𝛟|𝛠|𝛡|  
