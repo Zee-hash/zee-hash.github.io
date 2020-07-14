@@ -19,8 +19,18 @@ Skills:
 
 ![Search Result](/assets/images/post_images/20200714search-results.png)
 
-## Mathematical Tau
+## Mathematical  
+### Tau
 ![Characters](/assets/images/post_images/20200714Characters.png)  
 
+|Alpha|Beta|Gamma|Deta|Epsilon|Zeta|Eta|Theta|Lota|Kappa|  
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
+|𝛂|𝛃|𝛄|𝛅|𝛆|𝛇|𝛈|𝛉|𝛊|𝛋|  
 
+|Lamda|Mu|Nu|Xi|Omicon|Pi|Rho|Final Sigma|Sigma|Tau|  
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
+|𝜆|𝜇|𝜈|𝜉|𝜊|𝜋|𝜌|𝜍|𝜎|𝜏|  
 
+|Upsilon|Phi|Chi|Psi|Omega|partial Differential|Epsilon Symbol|Theta Symbol|Kappa Symbol|Phi Symbol|Rho Symbol|Pi Symbol|  
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
+|𝜐|𝜑|𝜒|𝜓|𝜔|𝜕|𝜖|𝜗|𝜘|𝜙|𝜚|  
