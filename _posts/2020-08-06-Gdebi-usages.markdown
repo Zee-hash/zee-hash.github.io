@@ -11,7 +11,7 @@ tags:  ["deb files' dependencies", "linux"]
 
 install via .deb and resolve dependence using gdebi
 ```bash
-$ sudo gdebi  nautilus_nutstore_amd64.deb
+$ sudo gdebi  ***.deb
 ```
 
 ## Install Gdebi 
