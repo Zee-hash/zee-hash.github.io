@@ -6,7 +6,7 @@ categories: linux
 author:  Zee-hash
 tags:  ["VLC", "linux"]
 ---
-> the table don't display corrently. I'll try to solve it if I could find a better way.  
+> There is a problem with the table display. I'll try to solve it if I could find a better way.  
 
 here are some docs about this issue.  
 [Setting a Markdown processor for your GitHub Pages site using Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)  
