@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Search for characters for markdown use"
+title:  "数学字符快速检索与使用"
 date:   2020-07-14 22:32:53 +0800
 categories: linux
 author:  Zee-hash

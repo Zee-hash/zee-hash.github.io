@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Useful linux command"
+title:  "命令行程序——按心情摆放"
 date:   2020-07-07 16:56:00 +0800
 categories: linux
 author:  Zee-hash

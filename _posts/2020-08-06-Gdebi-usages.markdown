@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A simple tool to install deb files"
+title:  "Deb包管理工具——Gdebi"
 date:   2020-08-06 18:41:51 +0800
 categories: linux
 author:  Zee-hash

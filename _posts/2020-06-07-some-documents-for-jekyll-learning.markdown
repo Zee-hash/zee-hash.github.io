@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some useful document for new jekyll user"
+title:  "新jekyll用户快速指南"
 date:   2020-06-07 15:49:00 +0800
 categories: jekyll update
 author:  Zee-hash

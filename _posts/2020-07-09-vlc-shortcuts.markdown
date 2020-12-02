@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shortcuts for VLC media player "
+title:  "VLC播放器常用快捷键"
 date:   2020-07-09 08:33:22 +0800
 categories: linux
 author:  Zee-hash

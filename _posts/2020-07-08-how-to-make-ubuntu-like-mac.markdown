@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to make ubuntu like Mac"
+title:  "Ubuntu美化篇——Mac风格"
 date:   2020-07-08 08:25:00 +0800
 categories: linux
 author:  Zee-hash

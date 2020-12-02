@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "欢迎使用Jekyll!——配置不易，且用且珍惜"
 date:   2020-06-07 13:42:46 +0800
 categories: jekyll update
 author:  Zee-hash
