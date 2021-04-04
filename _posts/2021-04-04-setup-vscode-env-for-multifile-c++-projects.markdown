@@ -6,7 +6,7 @@ categories: dev
 author:  Zee-hash
 tags:  ["VS Code", "Multi C++ Files"]
 ---
-> 准备一个通用的配置，便于今后使用
+> 准备一个通用的配置，便于今后使用，访问链接[TemplateForVSCode](https://github.com/Zee-hash/Templates/tree/master/TemplateForVSCode)  
 
 ## 目录结构
 + --bin       存放编译后的可执行文件
@@ -135,7 +135,7 @@ $ make
     ]
 }
 ```
-修改，"program"属性的内容为`${workspaceFolder}/bin/main`,注意，这里的main要和你之前Makefile文件中的程序名要一致。  
+修改"program"属性的内容为`${workspaceFolder}/bin/main`，注意，这里的main要和你之前Makefile文件中的程序名要一致。  
 为了在每次调试前使用的是最新生成的程序，我们还需要增加一条配置。
 ```json
 "preLaunchTask": "build"
