@@ -4,7 +4,7 @@ title:  "mysql更改root密码"
 date:   2021-04-03 14:42:00 +0800
 categories: mysql
 author:  Zee-hash
-tags:  ["password", mysql", "linux"]
+tags:  ["password", "mysql", "linux"]
 ---
 > 由于通过apt安装的mysql没有密码配置过程，故需手动配置
 
