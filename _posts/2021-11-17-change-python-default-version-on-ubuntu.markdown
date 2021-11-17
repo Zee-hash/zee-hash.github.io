@@ -35,7 +35,8 @@ $ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9
 $ update-alternatives --list python3
 /usr/bin/python3.8
 /usr/bin/python3.9
-```
+```  
+
 + 使用
 ```bash
 $ sudo update-alternatives --config python3
