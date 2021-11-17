@@ -40,7 +40,7 @@ $ update-alternatives --list python3
 $ sudo update-alternatives --config python3
 There are 2 choices for the alternative python3 (providing /usr/bin/python3).
   Selection    Path                Priority   Status
-* 0            /usr/bin/python3.8   5         auto mode
+ *0            /usr/bin/python3.8   5         auto mode
   1            /usr/bin/python3.8   5         manual mode
   2            /usr/bin/python3.9   2         manual mode  
 ```  
