@@ -28,7 +28,7 @@ update-alternatives --list python3
 ```  
 + 如果python3的可替换版本尚未被update-alternatives识别到，则可以通过以下命令添加：  
 ```bash
-$ 5
+$ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.8 5
 update-alternatives: using /usr/bin/python3.8 to provide /usr/bin/python3 (python3) in auto mode
 $ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 2
 $ update-alternatives --list python3
@@ -36,11 +36,10 @@ $ update-alternatives --list python3
 /usr/bin/python3.9
 ```  
 + 使用  
-```bash  
+```bash
 $ sudo update-alternatives --config python3
 There are 2 choices for the alternative python3 (providing /usr/bin/python3).
   Selection    Path                Priority   Status
-------------------------------------------------------------
 * 0            /usr/bin/python3.8   5         auto mode
   1            /usr/bin/python3.8   5         manual mode
   2            /usr/bin/python3.9   2         manual mode  
