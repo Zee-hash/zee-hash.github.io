@@ -43,6 +43,6 @@ There are 2 choices for the alternative python3 (providing /usr/bin/python3).
 ------------------------------------------------------------
 * 0            /usr/bin/python3.8   5         auto mode
   1            /usr/bin/python3.8   5         manual mode
-  2            /usr/bin/python3.9   2         manual mode
-```
-** 优先级高的会在auto mode中默认使用
+  2            /usr/bin/python3.9   2         manual mode  
+```  
+**优先级高的会在auto mode中默认使用**
