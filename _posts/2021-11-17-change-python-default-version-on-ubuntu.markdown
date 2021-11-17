@@ -37,7 +37,7 @@ $ update-alternatives --list python3
 /usr/bin/python3.9
 ```  
 
-+ 使用
++ 使用  
 ```bash
 $ sudo update-alternatives --config python3
 There are 2 choices for the alternative python3 (providing /usr/bin/python3).
